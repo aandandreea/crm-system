@@ -39,12 +39,12 @@ Model  →  DAO  →  Service  →  Console UI (Main)
 
 Core functionality is complete and manually tested:
 
-- ✅ Full CRUD for Customer, Contact, and Deal
-- ✅ Manual transaction handling
-- ✅ Concurrency-safe deal updates
-- ✅ Centralized exception handling
-- ✅ Business-rule validation
-- ✅ Interactive console menu
+-  Full CRUD for Customer, Contact, and Deal
+-  Manual transaction handling
+-  Concurrency-safe deal updates
+-  Centralized exception handling
+-  Business-rule validation
+-  Interactive console menu
 
 ## Possible Improvements
 
